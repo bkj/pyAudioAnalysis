@@ -1,4 +1,4 @@
-import os, glob, eyed3, ntpath, shutil, numpy
+import sys, os, glob, eyed3, ntpath, shutil, numpy
 import scipy.io.wavfile as wavfile
 import pydub
 from pydub import AudioSegment
